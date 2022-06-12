@@ -1,0 +1,14 @@
+{
+  "name": "nakamoto-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/0x6f6b/nakamoto-server.git",
+  "author": "0x6f6b <jackmertensdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "peer": "^0.6.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
